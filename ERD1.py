@@ -58,5 +58,5 @@ def main():
     create_er_diagram(tables, relationships)
 
 if __name__ == "__main__":
-    print("DrMaxD")
+    print("Made By: DrMaxD")
     main()

@@ -49,8 +49,8 @@ def create_er_diagram(tables, relationships):
     print("ER Diagram generated: er_diagram.png")
 
 def main():
-    print("DrMaxD")
     create_er_diagram(tables, relationships)
 
 if __name__ == "__main__":
+    print("Made By: DrMaxD")
     main()
